@@ -34,7 +34,7 @@ The problem is preety much stright forward, we all are famelier with Garbage and
 ## ResNet50 Architeture using Tranfer Learning
 ### Loss Plot of ResNet50
 <p align = 'center'>
-  <img src = './visualization_src/ResNet50/ResNet_Loss.png' align = 'center'>
+  <img src = './visualization_src/ResNet50/ResNet_Loss1.png' align = 'center'>
 </p>
 
 
